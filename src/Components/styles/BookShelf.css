@@ -42,8 +42,9 @@
 }
 .book img {
   max-width: 100%;
-  height: auto;
-  border-radius: 5px;
+    height: 212px;
+    border-radius: 5px;
+    margin-left: 67px;
 }
 .book h3 {
   margin-top: 20px;

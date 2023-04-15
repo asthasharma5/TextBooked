@@ -1,0 +1,18 @@
+
+    .blockkk {
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 600px;
+        height: 400px;
+        border-radius: 4%;
+        background-color: #ffffffd1;
+    
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    
+    }
+    .subheading{
+       
+    margin-top: 10px;
+    }

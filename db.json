@@ -4,6 +4,30 @@
       "id": 1,
       "email": "astha@123",
       "password": "astha123"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "astha",
+      "email": "astha1234",
+      "password": "astha1234",
+      "id": 3
+    },
+    {
+      "name": "astha",
+      "email": "astha1234",
+      "password": "astha1234",
+      "id": 4
+    },
+    {
+      "name": "astha",
+      "email": "astha1234",
+      "password": "astha1234",
+      "id": 5
     }
   ],
   "formdata": [
@@ -51,11 +75,11 @@
   "books": [
     {
       "id": 1,
-      "title": " The Catcher in the Rye",
-      "author": "J.D. Salinger",
+      "title": " Neelkanth Publishers",
+      "author": "Neelkanth Publishers",
       "publishedDate": "July 16, 1951",
-      "description": "book about this",
-      "coverImageUrl": "https://images.pexels.com/photos/256545/pexels-photo-256545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "NK Competition Books. Competition books of all kinds. We released text books for all exams, including the RSMSSB, Rajasthan Technical Helper, Tax Assistant .",
+      "coverImageUrl": "https://deeponlinestore.com/wp-content/uploads/2019/08/IMG_20190525_161206-1.jpg",
       "price": 11.99,
       "college": "Rajasthan Technical Univercity",
       "Branch": "Computer Science",
@@ -64,11 +88,24 @@
     },
     {
       "id": 2,
-      "title": " The Catcher in the Rye",
-      "author": "J.D. Salinger",
+      "title": " engineering mathematics 1",
+      "author": "Dr G Balaji",
       "publishedDate": "July 16, 1951",
       "description": "book about this",
-      "coverImageUrl": "https://images.pexels.com/photos/256545/pexels-photo-256545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "coverImageUrl": "https://mybooksfactory.com/wp-content/uploads/2020/12/balaji-engineering-maths-1-550x550h-300x360.jpg",
+      "price": 11.99,
+      "college": " Poornima College of Engineering",
+      "Branch": "Computer Science",
+      "Year": "1st",
+      "Subject": "IOT"
+    },
+    {
+      "id": 3,
+      "title": "Enviroment and disaster management",
+      "author": "Dr U.Sai joyti",
+      "publishedDate": "July 16, 1951",
+      "description": "book about this",
+      "coverImageUrl": "https://rukminim1.flixcart.com/image/416/416/k7m8brk0/regionalbooks/e/j/n/disaster-management-open-elective-iii-b-tech-iv-year-ii-sem-r16-original-imafptgngxpvz8nk.jpeg?q=70",
       "price": 11.99,
       "college": "JERC Univercity",
       "Branch": "Computer Science",
@@ -76,31 +113,30 @@
       "Subject": "IOT"
     },
     {
-      "id": 3,
-      "title": " The Catcher in the Rye",
-      "author": "J.D. Salinger",
-      "publishedDate": "July 16, 1951",
-      "description": "book about this",
-      "coverImageUrl": "https://images.pexels.com/photos/256545/pexels-photo-256545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "price": 11.99
-    },
-    {
-      "title": "NK",
+      "title": "Data Sturucture and alogrithum",
       "author": "NK",
-      "Publiser": "2017",
+      "publishedDate": "2017",
       "description": "NK all solved paper",
-      "Image": "",
+      "Image": "https://qph.cf2.quoracdn.net/main-qimg-84610dbf5532f036eaeebf8c64ba7d69-lq",
       "price": "100",
-      "id": 4
+      "id": 4,
+      "college": "JERC Univercity",
+      "Branch": "Computer Science",
+      "Year": "1st",
+      "Subject": "IOT"
     },
     {
       "title": "Enviroment and disaster management",
       "author": "NK",
-      "Publiser": "2022",
+      "publishedDate": "2022",
       "description": "Book",
-      "Image": "",
+      "Image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61bqlCFVfnL.jpg",
       "price": "200",
-      "id": 5
+      "id": 5,
+      "college": "JERC Univercity",
+      "Branch": "Computer Science",
+      "Year": "1st",
+      "Subject": "IOT"
     }
   ]
 }
